@@ -1,0 +1,368 @@
+.tudo{
+    margin: 0;
+    border: 0;
+}
+
+.titulo2{
+    margin: 35px;
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+
+
+.segundaParte{
+    justify-items: center;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+.btw{
+    justify-content: space-between;
+    margin: 35px;
+    font-size: 10px;
+    margin-bottom: 40px;
+}
+
+
+.inferno {
+    width: 470px;
+    
+}
+
+.galeria{
+    margin-bottom: 45px;
+}
+
+.segundaParte p {
+    font-size: 17px;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    margin-top: 25px;
+}
+
+.periodos p {
+    text-align: center;
+    font-size: 17px;
+    
+}
+
+.estilizaçao img{
+    width: 255px;
+    height: 290px;
+}
+
+.abc{
+    text-align: center;
+}
+
+.periodos{
+    margin: 35px;
+    margin-bottom: 45px;
+   
+
+}
+
+.subtitulo{
+    text-align: center;
+    font-weight: 300;
+}
+
+.espaçamento{
+    margin-top: 35px;
+}
+
+.imga img{
+    width: 200px;
+    height: 320px;
+}
+
+.grid p{
+    text-align: center;
+    font-size: 17px;
+}
+
+.span{
+    width: 100%;
+    margin-bottom: 35px;
+    background-image: url(span.jpg);
+    background: 
+    url('span.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+.primParte{
+    height: 100%;
+}
+
+.span h6{
+   border-top: 30px;
+    border-bottom: 30px;
+}
+
+hr{
+    width: 100%;
+    height: 9%;
+    margin: 55px;
+}
+
+
+
+.painel{
+        width: 100%;
+        height: 380px;
+        background: 
+          linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%), 
+          url('el-nacimiento-de-venus.jpg');
+        background-size: cover;
+        background-position: center;
+      }
+
+.painelFinal {
+    width: 100%;
+    height: 290px;
+    background: 
+          linear-gradient(to top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%), 
+          url(5f15d867adea68c8c846f35316a4f066.jpg);
+        background-size: cover;
+        background-position: center;
+}
+
+.painelFinal img{
+    position: absolute;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+}
+
+.painelFinal2 {
+    width: 100%;
+    height: 290px;
+    background: 
+          linear-gradient(to top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%), 
+          url(Johann\ Baptist\ Zimmermann72.jpg);
+        background-size: cover;
+        background-position: center;
+}
+
+.painelFinal2 img{
+    position: absolute;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+}
+
+.painelFinal3{
+    width: 100%;
+    height: 290px;
+    background: 
+          linear-gradient(to top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%), 
+          url(franc2.webp);
+        background-size: cover;
+        background-position: center;
+}
+
+.painelFinal3 img{
+    position: absolute;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.maos{
+    width: 100%;
+        height: 380px;
+        background: 
+          linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%), 
+          url(Ewert/39\ Sem\ Título_20241115005750.png);
+        background-size: cover;
+        background-position: center;
+}
+
+.redessociais{
+    width: 80%;
+}
+
+.titulo{
+    width: 100%;
+    margin-top: 55px;
+    position: absolute;
+    border: 0%;
+    text-align: center;
+    color: black;
+
+}
+      
+.titulo h1{
+    font-weight: 700;
+    font-size: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+.corpo {
+    background-color: rgb(0, 0, 0);
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding:5px;
+    height:auto;
+}
+/*
+.arte_01{
+    height: 350px;
+    width: 530px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.arte_02{
+    height: 350px;
+    width: 530px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.arte_03{
+    height: 350px;
+    width: 530px;
+    padding-top: 25px;
+    padding-bottom: 25px;}*/
+/*
+.intro{
+
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+
+}
+
+
+.logotxt {
+    font-style: italic;
+    margin-left: 35px;
+    color: rgb(255, 255, 255);
+    font-size: 45px;
+}
+
+
+
+header {
+    width: 100%;
+    box-shadow: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    top: 0;  
+    z-index: 10;
+    background-color: black;
+    
+}
+
+.introducao {
+    font-size: 30px;
+    padding-left: 73px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+p{
+    font-size: 25px ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:left;
+    margin: 25px;
+}
+.subtitle{
+    text-align: center;
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 35px;
+    background-color: rgb(29, 9, 9);
+    border: 1px;
+    border-color: white;
+    border-style: solid;
+}
+
+body img{
+    height: 350px;
+    width: 530px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+
+.menu {
+    background-color: rgb(248, 248, 248);
+    border-radius: 35px;
+    padding: 9px;
+    display: flex;
+    align-items: center;
+    margin-right: 70px;
+
+}
+
+.menu li {
+    display: inline-block;
+    margin-left: 35px;
+    margin: 0 10px;
+    text-transform: uppercase;
+}
+
+.menu li a {
+    font-size: 24;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 10 15px;
+    margin: 12px;
+}
+
+*/
